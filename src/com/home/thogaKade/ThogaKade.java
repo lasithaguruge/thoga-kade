@@ -12,5 +12,6 @@ package com.home.thogaKade;
 public class ThogaKade {
     public static void main(String[] args) {
         System.out.println("Welcome to thoga kade");
+        System.out.println("Test with SSH Key");
     }
 }
